@@ -99,7 +99,10 @@ public class Ablak extends JFrame implements ActionListener {
   @Override
   public void actionPerformed(ActionEvent e) {
     if (e.getSource() == miVizsga) {
-      new VizsgaAblak(idBekeres("Kérem a vizsgafeladatok számát "));
+      new VizsgaAblak(idBekeres("A helyes válasz színe: ZÖLD\n"
+              + "A hibásan kiválasztott válasz színe: PIROS\n"
+              + "A hibásan meg nem jelölt válasz színe: SÁRGA\n\n"
+              + "Kérem a vizsgafeladatok számát "));
     }
         
     if (e.getSource() == miUjKerdes) {

@@ -1,0 +1,36 @@
+﻿Mire használatos a Java fordító (compiler) és a Java értelmező (interpreter)? Jelölje be az összes jó választ! 
+A fordítóval készítjük el a java kiterjesztésű forráskódot, az értelmezővel pedig a class kiterjesztésű file-t. 
+A fordító a forrásszöveget processzor-független bájtkódra fordítja, amely aztán az értelmező segítségével futtatható. 
+A fordító előállít egy class file-t, ami az operációs rendszerből futtatható, az értelmező pedig az applet böngészőben való futtatásához kell. 
+A Java fordító a forrásprogramból futtatható tárgykódot készít, az értelmező pedig betölti a tárgykódot a memóriába. 
+b
+Jelölje be az összes igaz állítást! 
+Az interpreter a forrásprogramot vagy a bájtkódot alakítja át utasításonként natív kóddá.
+A compiler egy program, amely a forrásprogramnak egyszerre egyetlen sorát értelmezi.
+A compiler inputja a forrásprogram, outputja a tárgykód vagy a bájtkód.
+Az interpreter egyszerre elemzi a teljes forrásprogramot és fordítja le futtatható gépi kódú programmá. 
+ac 
+Jelölje be az összes helyes párosítást!
+Editor – Programszerkesztő
+Natív kód – Gépi kód
+Fortran – Magasszintű nyelv
+Interpreter – Fordító 
+bc 
+Milyen programmal lehet szerkeszteni a Java forráskódot? Jelölje be az összes jó választ!
+Csak a Java saját szerkesztőjével.
+Mindegy, csak DOS alatt működjön.
+Olyan szövegszerkesztővel, amely nem helyez el speciális, pl. formázó karaktereket a szövegben.
+Olyan szövegszerkesztővel, amellyel bájtkódot lehet előállítani. 
+c 
+Az alábbiak közül melyek tartoznak a moduláris programozás irányelvei közé? Jelölje be az összes jó választ!
+Adatok elrejtésének elve
+Hatékony programozás
+Elronthatatlanság
+„Oszd meg, és uralkodj!” elv 
+ad 
+Mi jellemzi a szoftver minőségét? Jelölje be az összes jó választ!
+Program mérete
+Szabványosság
+Felhasználóbarátság
+Hibatűrés 
+bcd

@@ -1,5 +1,6 @@
 package gui;
 
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
 import java.awt.Font;
@@ -123,10 +124,37 @@ public class VizsgaAblak extends JDialog implements ActionListener {
     setVisible(true);
   }
 
+  private void megoldasMegmutatasa(JCheckBox cb, String megoldas, String jomegoldas) {
+      if (cb.isSelected() && 
+              megoldas.contains(jomegoldas)) {
+          cb.setForeground(Color.GREEN);
+      } else if (cb.isSelected() && 
+              !megoldas.contains(jomegoldas)) {
+          cb.setForeground(Color.RED);
+      } else if (!cb.isSelected() && 
+              megoldas.contains(jomegoldas)) {
+          cb.setForeground(Color.YELLOW);
+      }
+  }
+  
   @Override
   public void actionPerformed(ActionEvent e) {
     if (e.getSource() == btOK) {
-      
+      /*A helyes válaszok megmutatása*/
+      megoldasMegmutatasa(cbValasz1, feladatok.get(aktualisKerdesSzama).
+              getMegoldas().toLowerCase(), "a" );
+      megoldasMegmutatasa(cbValasz2, feladatok.get(aktualisKerdesSzama).
+              getMegoldas().toLowerCase(), "b" );
+      megoldasMegmutatasa(cbValasz3, feladatok.get(aktualisKerdesSzama).
+              getMegoldas().toLowerCase(), "c" );
+      megoldasMegmutatasa(cbValasz4, feladatok.get(aktualisKerdesSzama).
+              getMegoldas().toLowerCase(), "d" );
+      JOptionPane.showMessageDialog(null, "A válaszok megtekintése után kattints"
+              + "az OK gombra!");
+      cbValasz1.setForeground(Color.BLACK);
+      cbValasz2.setForeground(Color.BLACK);
+      cbValasz3.setForeground(Color.BLACK);
+      cbValasz4.setForeground(Color.BLACK);
       /*Eredmény értékelése, és a következő kérdés kiíratása*/
       StringBuilder sb = new StringBuilder();
       if (cbValasz1.isSelected()) { sb.append("a");}
