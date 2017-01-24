@@ -33,4 +33,1054 @@ Program mérete
 Szabványosság
 Felhasználóbarátság
 Hibatűrés 
-bcd
+bcd 
+Jelölje be az összes igaz állítást!
+Egy gépi kódú program csak gépi kódú utasításokat tartalmaz, adatokat nem.
+A fordítóprogram output-ja a forráskód.
+A lefordított tárgykódban levő címek relatív címek, ezért a tárgykód a memóriában áthelyezhető.
+A bájtkód a magas szintű nyelv és a gépi natív kód közötti gépfüggetlen közbenső kód. 
+cd
+Jelölje be az összes igaz állítást!
+A szoftver sérthetetlen, ha különböző rendszerhibák nem okoznak helyreállíthatatlan hibákat.
+Egy feladat megoldásának tervezésekor alulról felfelé kell indulni.
+Az adatok elrejtésének elve kimondja, hogy két modul semmilyen esetben sem használhat közös adatokat.
+A moduláris programozás egyik irányelve az „Oszd meg, és uralkodj!” elv. 
+ad 
+Jelölje be az összes igaz állítást! 
+A linker ugyanaz, mint az editor. 
+A tárgykódokat a szövegszerkesztő segítségével lehet összeszerkeszteni. 
+A memória tartalma a program futása közben nem változik. 
+Egy gépi kódú utasítás az utasítás kódjával kezdődik, melyet az utasítás paraméterei követnek, ha vannak az utasításnak paraméterei. 
+d 
+Jelölje be az összes igaz állítást! 
+A fordító kiszűri a szemantikai hibákat. 
+A szintaktikai hiba futási hibát eredményez.  
+A Java fordító bájtkódot generál. 
+A Java értelmező lemezre menthető tárgykódot generál. 
+c 
+Jelölje be az összes igaz állítást!
+Az UML egy objektumorientált CASE eszköz.
+Az Egységesített Eljárás egy OO fejlesztési módszertan.
+A Java egy alacsonyszintű programozási nyelv.
+A JVM a Java bájtkód futtatóprogramja. 
+bd 
+Jelölje be az összes igaz állítást!
+Az assembly alacsony szintű programozási nyelv.
+A Java fordító gépfüggetlen közbenső kódot, bájtkódot generál.
+A magas szintű nyelv gépi kódja a bájtkód.
+Az interpreter a forrásprogram egyetlen utasítását értelmezi egyszerre. 
+abd 
+Hogyan működnek a fordítóprogramok (compilerek)? Jelölje be az összes jó választ!
+Egyszerre lefordítja az egész forrásprogramot.
+Egyszerre a forrásprogram egyetlen utasítását fordítja és hajtja végre.
+Kimenete minden esetben gépi kód.
+A forrásnyelven megírt programot lefordítja és rögtön végrehajtja. 
+a 
+Hogyan működnek az értelmezők (interpreterek)? Jelölje be az összes jó választ!
+Egyetlen utasításként lefordítja az egész forrásprogramot.
+Egyszerre a forrásprogram egyetlen utasítását fordítja és hajtja végre.
+A forrásnyelven megírt programot egyetlen menetben átalakítja futtatható kóddá.
+A forrásnyelven megírt programot egyszerre lefordítja és rögtön végrehajtja. 
+b
+Mit csinál a programszerkesztő (linker)? Jelölje be az egyetlen jó választ!
+A programszerkesztővel a forrásprogramot szerkeszthetjük meg.
+A programszerkesztő a külön lefordított tárgykódú modulokból kapcsolja össze a futtatható kódot.
+A programszerkesztővel tárgykódú programot lehet írni.
+A programszerkesztővel végrehajtható kódot lehet írni. 
+b 
+Jelölje be az összes igaz állítást!
+Az assembly nyelvet a magas szintű nyelvek közé soroljuk.
+Az assembly nyelv előnye, hogy gyorsabb és kisebb helyfoglalású program írható vele.
+A magas szintű nyelvek előnye, hogy vannak erősen hardverhez kötődő feladatok, amelyeket csak segítségükkel lehet megoldani.
+A bájtkód hordozható (gépfüggetlen), elvileg átvihető bármilyen gépre (platformra). 
+bd 
+Jelölje be az összes igaz állítást!
+A Java fordító natív kódot állít elő.
+A JVM (Java Virtual Machine) a bájtkódot utasításonként értelmezi és natív kóddá alakítja.
+A Java fordító bájtkódot állít elő.
+A bájtkód az ember számára könnyen olvasható és értelmezhető utasításokat tartalmaz. 
+bc 
+Jelölje be az összes igaz állítást!
+A szoftver kompatibilis, ha a tesztelési adatok és eljárások könnyedén összehasonlíthatók.
+A szoftver hibatűrő, ha az könnyedén átvihető más hardver, illetve szoftver környezetbe.
+Minden piacra kerülő szoftver az ISO által van szabványosítva.
+A szoftverkrízis jelentése: a hagyományos módszer már nem képes az igényeknek megfelelő minőségi szoftver előállítására. 
+d 
+Jelölje be az összes állítást, mely igaz a változóra egy szigorúan típusos nyelvben?
+A változó egy memóriaterület, melynek változhat az értéke.
+A változó logikailag tovább nem bontható, elemi egység.
+A változót azonosítani kell.
+A változónak meg kell adni a típusát. 
+acd 
+Jelölje be az összes állítást, mely igaz egy algoritmus tevékenységdiagramjára vonatkozóan?
+Egyértelműen jelölni kell a haladási irányt nyilakkal.
+Egy algoritmusnak több kezdési pontja is lehet.
+Egy algoritmusnak több kilépési pontja is lehet.
+Egy döntési pontból kiinduló nyilak feltételei közt lehet átfedés. 
+ac 
+Mi a szekvencia? Jelölje be az összes jó választ!
+Választás megadott tevékenységek között.
+Megadott tevékenységek feltételtől függő, ismételt végrehajtása.
+Egymás után végrehajtandó tevékenységek sorozata.
+Feltétel nélküli, időben egyszerre végrehajtandó tevékenységek. 
+c 
+Jelölje be az összes igaz állítást!
+Az algoritmus egy adott tevékenység ismételt végrehajtása, mely a feladat megoldását célozza.
+A szelekció választás megadott tevékenységek közül.
+Az iteráció bizonyos tevékenységek feltételtől függő, ismételt végrehajtása.
+Az iteráció bizonyos tevékenységek feltételtől független, ismételt végrehajtása. 
+bc 
+Jelölje be az összes igaz állítást!
+A pszeudokód egy programozási nyelv.
+A tevékenységdiagram segítségével a program dinamikus viselkedését tudjuk ábrázolni.
+A rutin egy külön névvel ellátott, összetett tevékenység.
+A függvény egy visszatérési értékkel rendelkező rutin. 
+bcd 
+Jelölje be az összes igaz állítást!
+A rutin meghívható a nevére történő hivatkozással.
+A visszatérési érték nélküli rutint függvénynek nevezzük.
+A függvény hívása történhet az értékadás jobb oldalán.
+A pszeudokód egy programozási nyelv. 
+ac 
+Mit ír le az alábbi pszeudokód? Jelölje be az egyetlen jó választ!  [if feltétel tevékenység end if] 
+Szekvenciát.
+Egyágú szelekciót.
+Elöltesztelő ciklust.
+Növekményes ciklust. 
+b 
+Jelölje be az összes igaz állítást!
+A hátultesztelő ciklusra jellemző, hogy a ciklusmag egyszer mindenképpen végrehajtódik.
+A strukturált algoritmusra nem jellemző a többágú szelekció alkalmazása.
+Az algoritmus minden lépésének egyértelműen végrehajthatónak kell lennie.
+A tevékenységdiagram algoritmus leírására szolgáló, mondatszerű elemekből felépülő jelölésrendszer.  
+ac 
+Jelölje be az összes állítást, mely igaz az Egységesített Eljárásra!
+A rendszer implementációjának lényegi része a kidolgozási fázisban történik.
+Az, hogy a rendszer fizikai komponenseit milyen hardver egységekre telepítjük, közvetlenül az átadás előtt dől el.
+A kidolgozás fázisában alakítjuk ki a rendszer architektúrájának nagy részét.
+Az implementálás a forráskód előállítása. 
+cd 
+Melyik felsorolás tükrözi a szoftverfejlesztési ciklus munkafázisainak helyes időbeli sorrendjét? Jelölje be az egyetlen jó választ!
+Konstrukció, felmérés, kidolgozás, átadás
+Konstrukció, kidolgozás, felmérés, átadás
+Felmérés, konstrukció, kidolgozás, átadás
+Felmérés, kidolgozás, konstrukció, átadás 
+d 
+Jelölje be az összes helyes állítást!
+A szemantikai hibákat a fordítóprogram segítségével szűrhetjük ki.
+A szemantikai hiba egy logikai, tartalmi hiba.
+A szemantikai hibát nehezebb kiszűrni a szintaktikai hibánál.
+A száraztesztnek nevezett tesztelést számítógép segítségével végezzük. 
+bc 
+Jelölje be az összes igaz állítást!
+Az absztrakció a valós világ osztályozása.
+Az ismeretségi kapcsolatban álló objektumok léte egymástól független.
+Az objektum információt tárol, és kérésre feladatokat hajt végre.
+Az öröklődés két objektum közötti kapcsolat. 
+bc 
+Jelölje be az összes igaz állítást!
+Ismeretségi (használati) kapcsolatról akkor beszélünk, ha az egyik objektum határozottan része a másiknak.
+Az utód osztályban újra meg kell adni az ős osztályra jellemző tulajdonságokat és viselkedésformákat.
+A polimorfizmus azt jelenti, hogy az objektum felelős feladatai elvégzéséért.
+Öröklődéskor az utód osztályban csak az ős osztálytól való eltéréseket kell megadni. 
+d 
+Mi az absztrakció? Jelölje be az egyetlen jó választ!
+A valós világ modellezése.
+Objektumok megkülönböztetése számunkra lényeges tulajdonságok alapján.
+A modellezés során a valós világ leegyszerűsítése a lényegre való koncentrálással.
+Osztályok kiterjesztése új metódusok hozzáadásával. 
+c 
+Mit értünk osztályozás alatt? Jelölje be az egyetlen jó választ!
+A valós világ modelljeinek elemzését a lényegre való koncentrálással.
+Az objektumok rendszerezését, kategóriákba sorolását.
+Bővebb, illetve szűkebb kategóriák felállítását.
+Objektumok lényeges tulajdonságainak megkeresését. 
+b 
+Mi a polimorfizmus? Jelölje be az egyetlen jó választ!
+Ugyanarra az üzenetre különböző objektumok másképp reagálhatnak.
+Sokféle objektumtípus (osztály) létezése.
+Az egy objektumnak küldhető metódusok nagy száma.
+Az egy objektumnak küldhető metódusok sokfélesége. 
+a
+Jelölje be az összes igaz állítást!
+A példányváltozót csak a példánymetódusok érik el.
+A példányváltozót elérik a példánymetódusok és az osztálymetódusok is.
+Az osztályváltozót csak az osztálymetódusok érik el.
+Az osztályváltozót csak a példánymetódusok érik el. 
+a 
+Jelölje be az összes igaz állítást!
+A példánymetódus eléri az osztályváltozókat.
+A példánymetódus eléri a példányváltozókat.
+Az osztálymetódus nevét az UML-ben aláhúzzuk.
+A példánymetódus által megváltoztatott példányváltozó kihatással van az egész osztályra. 
+abc 
+Jelölje be az összes igaz állítást!
+Mindig a szerver üzen a kliensnek.
+Az osztály egy minta, mely alapján objektumok hozhatók létre.
+Az üzenet az objektum kívülről elérhető metódusának aktivizálása.
+Egy objektum önmagának is küldhet üzenetet. 
+bcd 
+Jelölje be az összes igaz állítást!
+Minden objektum azonosítható.
+Egy programban minden osztályhoz legalább egy objektum tartozik.
+Egy programban minden objektumhoz pontosan egy osztály tartozik.
+Ha egy objektumnak egy üzenetet küldünk, akkor minden esetben egy példánymetódus hajtódik végre. 
+ac 
+Mely állítás(ok) igaz(ak) az osztályváltozóra az alábbiak közül? Jelölje be az összes jó választ!
+Adat, mely az egész osztályra jellemző.
+Értéke az osztály összes példányára ugyanaz.
+Nevét az UML-ben vastagon írjuk.
+Az osztály összes objektuma ismeri és eléri. 
+abd 
+Mely állítás(ok) igaz(ak) a példányváltozóra az alábbiak közül? Jelölje be az összes jó választ!
+A példányváltozót látják az osztálymetódusok.
+A példányváltozók példányonként helyet foglaló változók.
+A példányváltozók példányonként más-más értéket vehetnek fel.
+A példánymetódusok módosíthatják a példányváltozók értékeit. 
+bcd 
+Jelölje be az összes igaz állítást!
+Az objektum állapotát adatainak pillanatnyi értéke határozza meg.
+Az objektum az információt attribútumok formájában tárolja.
+Az objektumot a feladatok végrehajtására attribútumok által lehet megkérni.
+Ha az objektumnak végrehajtásra kerül egy metódusa, az objektum adatai megváltozhatnak. 
+abd 	
+Jelölje be az összes igaz állítást!
+Egy objektum születésekor annak osztálya nincs meghatározva, az csak akkor válik egyértelművé, ha üzenetet küldünk neki.
+Egy objektum nem küldhet üzenetet önmagának.
+Az üzenetet a kliens objektum küldi és a szerver fogadja.
+Az objektum összes adata és metódusa kívülről elérhető. 
+c 
+Jelölje be az összes igaz állítást!
+Az osztályváltozó az osztály saját változója, az egyes példányokban nem szerepel.
+Egy objektumot csak példánymetódussal lehet megszólítani.
+Az osztálymetódus az osztályváltozókon és példányváltozókon dolgozik.
+A bezárás az adatok és metódusok összezárását jelenti. 
+ad 
+Jelölje be az összes igaz állítást!
+A határ (interfész) objektum általában vezérlést, számolást hajt végre.
+Egy már megírt kód újrafelhasználását elérhetjük példány létrehozásával.
+A konténer az osztályok közötti egy-sok kapcsolat megvalósítását szolgálja.
+Az osztályváltozó, illetve osztálymetódus nevét az UML-ben nagy kezdőbetűvel írjuk. 
+bc 
+Jelölje be az összes olyan állítást, melyek igazak az objektumra!
+Adatot tárol, feladatokat hajt végre.
+Soha sincsenek saját adatai.
+Logikailag összetartozó adatok és algoritmusok összessége.
+A vezérlő objektum felel minden objektum feladatainak helyes elvégzéséért. 
+ac 
+Mi az üzenet egy objektum számára? Jelölje be az egyetlen jó választ!
+Kérelem feladat végrehajtására.
+Az osztály egyik metódusának leírása.
+Kapcsolat megvalósítása az objektumok között.
+Felelősség meghatározása. 
+a 
+Mit jelent az információ elrejtése? Jelölje be az egyetlen jó választ!
+Az objektum adatai nem érhetők el.
+Az objektumnak nem küldhető üzenet.
+Az objektum léte függ egy másik objektumtól.
+Az objektum belseje sérthetetlen, csak interfészen keresztül érhető el. 
+d 
+Melyik két objektum között van erős tartalmazási kapcsolat? Jelölje be az összes jó választ!
+fényképezőgép - elem
+autó – autó kereke
+ház - lakó
+híd - pillér 
+d 
+Milyen kapcsolat van az ember és az agy objektumok között? Jelölje be az egyetlen jó választ!
+Ismeretségi kapcsolat.
+Erős tartalmazási kapcsolat.
+Erős használati kapcsolat.
+Gyenge tartalmazási kapcsolat. 
+b 
+Milyen kapcsolat van az előadó és a hallgató objektumok között? Jelölje be az egyetlen jó választ!
+Nincsenek kapcsolatban egymással.
+Erős tartalmazási kapcsolat.
+Gyenge tartalmazási kapcsolat.
+Ismeretségi kapcsolat. 
+d 
+Mit nevezünk kompozíciónak? Jelölje be az egyetlen jó választ!
+A használati kapcsolatot.
+A gyenge tartalmazást.
+Azt a tartalmazást, ahol az egész objektum minden részével erős tartalmazási kapcsolatban áll.
+Azt a tartalmazást, ahol az egész objektum legalább egy részével erős tartalmazási kapcsolatban áll. 
+c 
+Milyen kapcsolatot valósít meg a konténer? Jelölje be az egyetlen jó választ!
+Osztályok közötti egy – sok kapcsolatot.
+Osztályok közötti sok – sok kapcsolatot.
+Objektumok közötti egy – sok kapcsolatot.
+Objektumok közötti sok – sok kapcsolatot. 
+a 
+Jelölje be az összes objektumok közötti kapcsolatot!
+ismeretségi
+tartalmazási
+egy-sok
+öröklés 
+ab 
+Jelölje be az összes olyan állítást, amely igaz az ismeretségi kapcsolatra!
+Az objektumok léte egymástól független.
+Az objektumok üzeneteket küldhetnek egymásnak.
+Az egyik objektum része a másiknak.
+Az egyik objektum megszűnésével megszűnik az összes vele ismeretségi kapcsolatban álló objektum is. 
+ab 
+Jelölje be az összes olyan állítást, amely igaz a tartalmazási kapcsolatra!
+Az objektumok léte egymástól független.
+Erős tartalmazás esetén a rész objektum kivehető az egész objektumból.
+Az egész objektum megszűnésével megszűnik a vele tartalmazási kapcsolatban álló összes részobjektum.
+A kapcsolat lehet erős és gyenge tartalmazási kapcsolat is. 
+cd 
+Milyen multiplicitású kapcsolatok léteznek osztályok között? Jelölje be az összes helyes választ!
+egy-sok
+sok-sok
+erős tartalmazás
+gyenge tartalmazás 
+ab 
+Mi valósítja meg az egy-sok kapcsolatot? Jelölje be az egyetlen helyes választ!
+Egy változó.
+Egy mutató.
+Egy típus.
+Egy konténer. 
+d 
+Mi az öröklődés a Javában? Jelölje be az összes jó választ!
+Egy osztály örökli az ős tulajdonságait és viselkedését, csak az eltéréseket kell megadni.
+Több osztály összemásolásával létre lehet hozni egy új osztályt.
+Több osztály kiválasztott tulajdonságaiból létrehozható egy új osztály.
+Kód újrafelhasználása a felhasznált osztály kódjának megváltoztatása nélkül. 
+ad 
+Jelölje be az összes igaz állítást!
+public jelentése: Csak publikus osztályból lehet rá hivatkozni.
+protected jelentése: Csak ugyanabból és az utód osztályokból lehet rá hivatkozni.
+private jelentése: Csak a deklarációt tartalmazó osztályból lehet rá hivatkozni.
+protected jelentése: Csak az osztály protected deklarációi látják. 
+bc 
+Jelölje be az összes igaz állítást!
+Alaposztály: öröklődésnél a hierarchia legalsó osztálya.
+Szuperosztály = specializált osztály.
+Ha A leszármazottja C-nek, és C leszármazottja B-nek, akkor A leszármazottja B-nek.
+Ha B leszármazottja A-nak, és C leszármazottja A-nak, akkor A leszármazottja C-nek. 
+c 
+Jelölje be az összes igaz állítást!
+Alaposztály: öröklődésnél a hierarchia legalsó osztálya.
+Szuperosztály = specializált osztály.
+Az öröklés tranzitív: ha A leszármazottja C-nek, és C leszármazottja B-nek, akkor A leszármazottja B-nek.
+Az utód osztály példányainak adatai = ős adatok + saját (utód) adatok. 
+cd 
+Jelölje be az összes igaz állítást!
+Egy osztályból legfeljebb 10 osztály származtatható.
+Az utód osztály példányainak küldött üzenet mindig a felülírt (az öröklési ágon az utódhoz felfelé legközelebbi) metódus végrehajtását jelenti.
+Az utód osztály az ős osztály kapcsolatait nem örökli.
+Az általánosítás olyan folyamat, amelyben több dolog leírásából kiemeljük a közös jellemzőket. 
+bd 
+Jelölje be az összes igaz állítást!
+A specializálás olyan folyamat, amelyben több dolog leírásából kiemeljük a közös jellemzőket.
+Egy osztályból pontosan egy utód osztály származtatható.
+A többszörös öröklés azt jelenti, hogy egy osztálynak több közvetlen őse is lehet.
+A többszörös öröklés azt jelenti, hogy egy osztálynak több közvetlen utódja is lehet. 
+c 
+Jelölje be az összes igaz állítást!
+Egy interfész metódusfejeket definiál.
+Egy osztály több interfészt is implementálhat.
+A láthatóság alapértelmezése az osztály szintű láthatóság.
+A public deklaráció azt jelenti, hogy a hozzáférés csak öröklésen keresztül lehetséges. 
+ab 
+Jelölje be az összes igaz állítást!
+A védett deklaráció UML jelölése: ! , a nyilvánosé: + .
+Ha a láthatóság nincs megadva, akkor a deklaráció az aktuális csomagban nyilvános, és kívülről nem elérhető.
+A privát adat UML jelölése: - , a védetté: # .
+Egyszeres öröklésről akkor beszélünk, ha egy osztálynak csak egy közvetlen őse lehet. 
+bcd 
+Mire van lehetőségünk az utód osztályban egy osztály örökítésekor? Jelölje be az összes helyes választ!
+Új adatokat deklarálhatunk.
+Az ős osztály metódusait törölhetjük.
+Az ős osztály adatait felüldefiniálhatjuk.
+Az ős osztály metódusait felüldefiniálhatjuk. 
+ad 
+Mire van lehetőségünk az utód osztályban egy osztály örökítésekor? Jelölje be az összes helyes választ!
+Az adatok láthatóságát szűkíthetjük.
+Az ős osztály adatait felüldefiniálhatjuk.
+Új metódusokat deklarálhatunk.
+Az ős osztály metódusait felüldefiniálhatjuk. 
+cd 
+Jelölje be az összes olyan állítást, mely igaz az öröklésre!
+Egy osztályból több osztály is származtatható.
+Az utód az ős adatait és metódusait örökli, de kapcsolatait nem.
+Az öröklés tranzitív: Ha A leszármazottja B-nek és B leszármazottja C-nek, akkor A leszármazottja C-nek is.
+A leszármazott osztály az ős osztály kiterjesztése. 
+acd 
+Jelölje be az összes olyan állítást, mely igaz az öröklésre!
+Az öröklés során kialakulhat ismeretségi és tartalmazási kapcsolat.
+Az utód osztály örökli az ős viselkedésformáit (metódusait).
+Az utód osztály örökli az ős tulajdonságait (adatait).
+Az ős tárolja az utód eltéréseit önmagához képest. 
+bc 
+Jelölje be az összes igaz állítást!
+A specializálás olyan folyamat, amelyben több dolog leírásából kiemeljük a közös jellemzőket.
+Egy osztályból pontosan egy utód osztály származtatható.
+A többszörös öröklés azt jelenti, hogy egy osztálynak több közvetlen őse is lehet.
+A többszörös öröklés azt jelenti, hogy egy osztálynak több közvetlen utódja is lehet. 
+c 
+Jelölje be az összes igaz állítást!
+Egy interfész metódusfejeket definiál.
+Egy osztály több interfészt is implementálhat.
+A láthatóság alapértelmezése az osztály szintű láthatóság.
+A public deklaráció azt jelenti, hogy a hozzáférés csak öröklésen keresztül lehetséges. 
+ab 
+Jelölje be az összes igaz állítást!
+Egy vizuális tervezőeszköz használatakor a fejlesztő a programozás során elhagyhatja a tervezést.
+A Java objektum alapú nyelv.
+A hibrid nyelv kényszeríti az OO elvek betartását.
+A C++ és a Pascal nyelveket a hibrid nyelvek közé soroljuk. 
+d 
+Jelölje be a csak tiszta OO nyelveket tartalmazó csoportokat!
+C++, Java, Smalltalk
+Pascal, Java, Eiffel
+Eiffel, Java, Smalltalk
+Java, C++, Eiffel 
+c 
+Mi jellemző az objektum alapú nyelvekre? Jelölje be az összes igaz állítást!
+Támogatja az osztályozást és a bezárást.
+Támogatja az objektumazonosságot és a bezárást, de nem támogatja az öröklést.
+Támogatja az öröklést, de nem támogatja a bezárást.
+Támogatja az öröklést és az osztályozást. 
+ab 
+Jelölje be az összes igaz állítást!
+A Java nyelvet a Sun MicroSystems egy csoportja fejlesztette ki.
+A C++ nyelv a Java nyelv leegyszerűsített változata.
+A fordítóprogram által generált bájtkód HTML parancsokból áll.
+A Java nyelv jellemzői: elosztott, interpretált, biztonságos, architektúra-semleges. 
+ad 
+Win32 alatt JDK1.6-tal akarunk fordítani, futtatni. Jelölje be az összes igaz állítást!
+A CLASSPATH-ba fel kell vennünk az összes általunk írt, használni kívánt csomag gyökérkönyvtárát.
+A programban a futtatandó publikus osztály neve és a forrásállomány neve meg kell, hogy egyezzen, és az állomány kiterjesztése kötelezően java.
+A futtatandó publikus osztálynak tartalmaznia kell egy kötött formájú main metódust.
+A futtatandó publikus osztály main metódusának visszatérési értéke kötelezően int. 
+abc 
+Jelölje be a logikailag összetartozó fogalom-párokat! Jelölje be az összes helyes párosítást!
+java.io – API csomag
+java.util – API osztály
+CLASSPATH – a JDK programjainak elérési útvonala
+API – Application Programming Initializer 
+a 
+Az alábbiak közül melyek Java fordítók vagy interpreterek? Jelölje be az összes jó választ!
+JCreator
+JIT
+JVM
+JMP 
+bc 
+Mi a .class kiterjesztésű fájl? Jelölje be az egyetlen jó választ!
+Az osztály forráskódja.
+Az osztály bájtkódja.
+Több fordítási egységből szerkesztett végrehajtható fájl.
+Önállóan futtatható programfájl. 
+b 
+Mit tartalmaz a JDK? Jelölje be az összes jó választ!
+API osztálykönyvtárat
+fordítót
+szövegszerkesztőt
+virtuális gépet 
+abd 
+Jelölje be a logikailag összetartozó fogalom-párokat! Jelölje be az összes helyes párosítást!
+javac.exe - compiler
+java.exe - compiler
+java.exe - interpreter
+java.exe - JVM 
+acd 
+Jelölje be az összes igaz állítást!
+A java.lang csomagot mindig importálni kell, különben a Java program nem látja.
+A java.lang csomag a Java alaposztályait (Math, Object, stb.) tartalmazza.
+A java.lang csomagot minden Java program automatikusan látja.
+A java.util csomag tartalmazza a következő osztályokat: Integer,  Math,  Object. 
+bc 
+Jelölje be az összes igaz állítást!
+A Java programok forráskódja egy szöveges állomány.
+A main metódus feje helyesen így néz ki: public static int main (String[ ] args).
+Egy Java program belépési pontját a main metódus jelenti.
+A main metódus feje helyesen így néz ki: public static void main (args). 
+ac 
+Mit tartalmaz egy integrált fejlesztői környezet? Jelölje be az összes jó választ!
+táblázatkezelőt
+szövegszerkesztőt
+fordítót
+futtatót 
+bcd 
+Jelölje be az összes szintaktikailag helyes azonosítót!
+B12
+buli
+Egyedem-begyedem
+xXxXxXxX 
+abd 
+Jelölje be az összes szintaktikailag helyes azonosítót!
+bbbbbb
+Nem*igaz
+Brrrr... 
+igenam 
+ad 
+Jelölje be az összes szintaktikailag helyes azonosítót!
+2program
+darab
+$zam$
+osszeg_8 
+bcd 
+Jelölje be az összes szintaktikailag helyes változó deklarációt!
+i int;
+char c();
+char kar_akter = '\u0003';
+float public = 3.1455; 
+c 
+A Problema.java forrásállományban a main metódus mely blokkban szerepelhet? Jelölje be az egyetlen jó választ!
+public class problema{...}
+public class Problema{...}
+public Problema{...}
+public Class Problema{...} 
+b 
+Mi jelenik meg a képernyőn a következő utasítások végrehajtása után? Jelölje be az egyetlen jó választ! byte a=5, b=0; System.out.println("a+b= "+a+b); 
+a+b= 5
+a+b= 50
+a+b= 5 0
+Semmi, mert a kódrészlet szintaktikailag hibás. 
+b 
+Mely(ek) egész típus(ok) az alábbiak közül? Jelölje be az összes jó választ!
+short
+double
+long
+float 
+ac 
+Mit tartalmaz a java.lang (language) csomag? Jelölje be az összes jó választ!
+A különböző beszélt nyelvek speciális karaktereit.
+A Math osztályt.
+Az Object alaposztályt.
+A Java fordító hibaüzeneteit különböző nyelveken. 
+bc 
+Mely állítások igazak az alábbiak közül? Jelölje be az összes jó választ!
+Az ASCII kódtábla két bájton kódol egy karaktert.
+Az Unikód karaktereket egy bájton tároljuk.
+Az ASCII és az Unikód kódtáblának van közös része (vannak olyan karakterek, amelyeknek ASCII és Unikódja megegyezik).
+Az ASCII kódtáblázat első 128 karaktere egységesen meghatározott, a további 128 nemzeti karakterek (pl. magyar ékezetes betük) számára fenntartott. 
+cd 
+Válassza ki a helyes Java-azonosítókat! Jelölje be az összes jó választ!
+$árfolyam
+Elég-e
+5JegyûSzám
+PI  
+ad 
+Az alábbiak közül mely állítások igazak az import utasításra?
+Az import utasításban megadhatjuk valamely csomagnak a programban használni kívánt egyik, vagy valamennyi publikus osztályát.
+Az import utasításban a mások által készített forrásnyelvi sorokat emeljük be a programba.
+Az import utasítást adatbeolvasásra használjuk.
+Csak egy import utasítás lehet egy fordítási egységben, és az a használni kívánt osztályokat sorolja fel. 
+a 
+Mit jelent egy változó deklarációja esetén a final szó? Jelölje be az összes jó választ!
+végérvényesen meghatározott, megváltoztathatatlan
+végső, maximális értéket felvevő
+konstans
+csak a példánymetódusok érhetik el 
+ac 
+Jelölje be az összes igaz állítást!
+Az ASCII karakterkészlet olyan kódrendszer, amely a karaktereket 2 bájton ábrázolja.
+Az első 256 unikód karakter megegyezik az ASCII karakterkészlettel.
+Az unikód karakterek a \u0000 karaktertől a \uffff karakterig terjednek.
+Az ASCII karakterek között nem találhatók escape karakterek. 
+bc 
+Jelölje be az összes igaz állítást!
+A \t, \n fehér szóközöket jelölnek.
+A // többsoros megjegyzést jelöl.
+A /* és */ karakterpárok közé zárt szöveget a Java fordító nem veszi figyelembe.
+Egy azonosító hossza legfeljebb 255 unikód karakter lehet. 
+ac 
+Jelölje be az összes szintaktikailag helyes azonosítót!
+1_metodus
+elsoMetodus
+el-Valasztas
+_valtozo_1 
+bd 
+Jelölje be az összes igaz állítást!
+A double, switch, this a Java kulcsszavai.
+A kulcsszót a programozó csak objektum azonosítására használhatja.
+A literál olyan érték, amely a program futása közben szabadon változtatható.
+A következő valós literálok mindegyike double típusú: 12.856, 0.2F, 12E2, 1e9, 100.002, 28.45f . 
+a 
+Jelölje be az összes igaz állítást!
+Egy változó típusa meghatározza a változónak adható értékek tartományát, de nem befolyásolja a rajta végezhető műveleteket.
+A változó inicializálása kezdeti értékadást jelent.
+Egy változó típusa meghatározza a változónak adható értékek tartományát, és a rajta végezhető műveleteket is.
+A primitív típusú változó memóriaterülete oszthatatlan. 
+bcd 
+Jelölje be az összes igaz állítást!
+A sorszámozott típus lehet valós vagy karakter típus.
+A Javában mindössze 6 darab primitív típus létezik.
+A karakter típus sorszámozott típus.
+A referencia típusú változó egy objektum hivatkozását tartalmazza. 
+cd 
+Mekkora memóriaterületet foglalnak le a felsorolt típusok? Jelölje be az összes jó választ!
+short: 16 bit
+double: 8 bájt
+int: 64 bit
+long: 4 bájt  
+ab 
+Jelölje be az összes igaz állítást!
+A Java gyengén típusos nyelv.
+A típuskonverzió implicit, ha azt a fordító automatikusan elvégzi.
+Típuskényszerítéskor a programozó egy kifejezés értékére rákényszerít egy típust.
+A szűkítő konverzió információvesztéssel járhat. 
+bcd 
+Jelölje be az összes igaz állítást!
+A Java erősen típusos nyelv.
+A Java típusok két csoportba oszthatók: primitív és referencia típusok.
+A valós literálok automatikusan float típusúak.
+Az egész literálok automatikusan int típusúak. 
+abd 
+A megadott deklarációk mellett mely kifejezések helyesek? Jelölje be az összes jó választ! byte b=1; char c='A'; int i=1; 
+b**2
+MATH.sin(b)
+(b+i)*c
+i += b+1 
+cd 
+Az alábbi kifejezés kiértékelése után mi lesz kif értéke? Jelölje be az egyetlen jó választ! int a=8, b=10, c=7; kif=Math.abs(a-- -b)*c++ + --a;  
+9
+10
+28
+20 
+d 
+Az alábbi kifejezés kiértékelése után mi lesz a értéke? Jelölje be az egyetlen jó választ! int a=010, b=10, c=07; kif=Math.abs(a-- -b)*c++ + --a; 
+0
+6
+8
+20 
+b 
+Az alábbi kifejezés kiértékelése után mi lesz kif értéke? Jelölje be az egyetlen jó választ! double a=10, b=2; int c=1; kif=Math.pow(a,b)*++c + c; 
+101
+102
+201
+202 
+d 
+Az alábbi kifejezés kiértékelése után mi lesz z értéke? Jelölje be az egyetlen jó választ! short x=60, y=5; int z =(char)(x+y); 
+'A'
+65
+Szintaktikai hiba
+Futási hiba 
+b 
+Az alábbi kifejezés kiértékelése után mi lesz z értéke? Jelölje be az egyetlen jó választ! int i=1, z; z=i+++(++i); 
+1
+2
+3
+4 
+d 
+Az alábbi kifejezés kiértékelése után mi lesz i értéke? Jelölje be az egyetlen jó választ! int i=1, z; z=i+++(++i); 
+1
+2
+3
+4 
+c 
+Az alábbi kifejezés kiértékelése után mi lesz z értéke? Jelölje be az egyetlen jó választ! int i=1, z; z=++i+(i++); 
+1
+2
+3
+4 
+d 
+Jelölje be az összes szintaktikailag helyes változó deklarációt!
+byte a=150;
+boolean egyenlo=5;
+int negativ=-128;
+float 256; 
+c 
+Adott az alábbi deklaráció: int i = 0; Mi ír ki alábbi utasítás? Jelölje be az egyetlen jó választ! System.out.println(i++ == ++i); 
+Semmit, a fordító hibát jelez!
+Semmit, futási hiba keletkezik!
+0
+false 
+d 
+Adottak a következő deklarációk. int i,j; double d; char c; boolean b; Mely értékadások helyesek az alábbiak közül? Jelölje be az összes jó választ!
+d = c;
+c = (char)d;
+b = (i = j);
+b = c < i; 
+abd 
+Jelölje be az összes igaz állítást!
+Egy valós literál automatikusan float típusú.
+Egy egész literál automatikusan long típusú.
+Egy egész literál automatikusan int típusú.
+Egy egész literál long típusú akkor, ha a szám mögé egy L betűt teszünk. 
+cd 
+Jelölje be az összes igaz állítást!
+Egy valós literál automatikusan float típusú.
+Egy valós literál automatikusan double típusú.
+Egy függvény típusa annak visszatérési értéke.
+Egy valós literál float típusú akkor, ha a szám mögé egy F betűt teszünk. 
+bcd 
+Jelölje be az összes igaz állítást!
+A  ! művelet unáris, a  &  és  | műveletek binárisak.
+A  =  művelet unáris, a  == művelet bináris.
+A  ++ művelet unáris, a  +=  művelet bináris.
+A  || és && műveletek binárisak. 
+acd 
+Jelölje be az összes igaz állítást!
+A logikai szorzás (&) eredménye true, ha mindkét operandus true.
+A logikai szorzás (&) eredménye false, ha mindkét operandus false.
+A logikai összeadás (|) eredménye false, ha mindkét operandus false.
+A logikai összeadás (|) eredménye false, ha az egyik operandus true a másik pedig false. 
+abc 
+Jelölje be az összes igaz állítást!
+Az explicit típuskonverziót a fordító automatikusan elvégzi.
+Az explicit típuskonverzió esetében a programozó egy kifejezés értékére ráerőltet egy típust.
+Az implicit típuskonverzió esetében típuskényszerítésről beszélünk.
+A boolean típusú érték csak char típusúvá konvertálható. 
+b 
+Jelölje be az összes igaz állítást! 
+!(a & b) == !a | !b 
+!(a & b) == !a & !b
+!(a | b) == !a & !b
+!(a | b) == !a | !b 
+ac 
+Jelölje be az összes igaz állítást!
+if után a feltételt zárójelbe kell tenni.
+Az if utasítás igaz ágán levő egy vagy több utasítást kötelező blokkba tenni.
+if után a feltételt kapcsos zárójelbe kell tenni.
+if után a feltételt zárójelbe kell tenni, melyet egy pontosvesszőt követ. 
+a 
+Jelölje be az összes igaz állítást! Az if utasításban a kifejezés
+típusa csak byte, short, int vagy char lehet.
+kötelezően boolean típusú.
+pozitív értéke esetén az igaz ág, negatív értéke esetén az else ág hajtódik végre.
+hamis értéke esetén az else kulcsszó utáni utasítás hajtódik végre, ha van. 
+bd 
+Milyen lehet a switch utasításban a kifejezés típusa? Jelölje be az összes jó választ!
+byte
+char
+boolean
+float 
+ab 
+Jelölje be az összes igaz állítást!
+Az if és a switch vezérlőszerkezetek minden esetben helyettesíthetik egymást.
+A break utasítás elhelyezése minden case-ágban kötelező.
+A switch szerkezet diszkrét értékek esetszétválasztására használható.
+A switch szerkezet mindig átalakítható egyenértékű if szerkezetté. 
+cd 
+Mit ír ki a következő programrészlet? Jelölje be az egyetlen jó választ! int a=5; if (a==15); a*=2; System.out.println(a); 
+10
+15
+5
+2 
+a 
+Jelölje be az összes igaz állítást!
+A Javában minden feltételt zárójelbe kell tenni.
+Az if utasítások egymásba ágyazhatók.
+A Javában minden többágú szelekció switch szerkezettel is megvalósítható.
+A többágú szelekció esetében a feltételek közül legfeljebb kettő teljesülhet. 
+ab 
+Jelölje be az összes igaz állítást! A switch szerkezet alkalmazásakor
+a break utasítás hatására a default utasításra kerül a vezérlés.
+a break utasítás hatására a switch blokk végére kerül a vezérlés.
+ha nem teszünk a case végére break utasítást, akkor a vezérlés a default-ra kerül.
+nem kötelező default esetet megadni. 
+bd 
+Melyik pont sorrendje feleltethető meg a megadott fogalmak sorrendjének? Jelölje be az egyetlen jó választ! Hátultesztelő ciklus, elöltesztelő ciklus, többágú szelekció, növekményes ciklus 
+for, switch, do while, while
+while, do while, switch, for
+do while, while, for, switch
+do while, while, switch, for 
+d 
+Jelölje be az összes igaz állítást!
+A Javában nincs olyan ciklus, mely elöl tesztel, és kilépési feltételt fogalmaz meg.
+A Javában a ciklus feltétele minden esetben belépési feltétel.
+A Java összes ciklusára igaz, hogy ha a ciklusban csak egy utasítást akarunk végrehajtani, akkor a ciklusmagot nem kell blokkba tenni.
+A növekményes ciklus fejében nulla, egy, vagy kettő darab pontosvessző szerepel. 
+abc  
+Melyik ciklus blokkja fut le legalább egyszer? Jelölje be az összes jó választ!
+for (int i=0; i<10; i--) {...}
+for (int i=0; i<10; i++) {...}
+for (int i=0; i>=10; i--) {...}
+for (int i=0; i>10; i++) {...} 
+ab 
+Jelölje be az egyetlen jó választ! A do - while ciklus
+elöltesztelő, melynek a kilépési feltételét adjuk meg.
+hátultesztelő, melynek a kilépési feltételét adjuk meg.
+hátultesztelő, melynek a bennmaradási feltételét adjuk meg.
+léptető ciklus. 
+c 
+Az alábbiak közül mely utasításokkal lehet a ciklusból (annak lejárta előtt) kiugrani? Jelölje be az összes jó választ!
+return
+break
+continue
+A ciklusból csak a kilépési feltétel teljesülésekor lehet kilépni. 
+ab 
+Jelölje be az összes helyes metódus deklarációt!
+static int summa(int x,y) {return x+y;}
+public static void szoroz(int a, int b) {return a*b;}
+static int div(int x, int y) {return x/y;}
+double half(double n) {n=n/2;} 
+c 
+Jelölje be az összes szintaktikailag helyes metódusfej deklarációt!
+private static void main(String[])
+int max(int a, short b)
+double pow(double a, b)
+static void beolvas(double[][] szamlalo) 
+bd 
+Milyen metódust nevezünk túlterhelt metódusnak? Jelölje be az egyetlen jó választ!
+Ami egyidejűleg több programból is meghívható.
+Amely számára a kevés memóriaterületet foglal le a fordító.
+Amely többféle paraméterezéssel is meghívható.
+Amelynek több neve is van, és különböző neveken is meghívható. 
+c 
+Az alábbiak közül mely állítások igazak a túlterhelt metódusokra?
+A metódust különböző számú paraméterrel hívhatjuk meg.
+A metódust eltérő típusú paraméterekkel hívhatjuk meg.
+Futási időben dől el, hogy melyik szignatúrájú metódust kell végrehajtani.
+A programozó tetszés szerinti módon hívhatja a metódust, a fordítóprogram a szükséges típusátalakításokat elvégzi. 
+ab 
+A metódusok hogyan adhatnak vissza értéket a Javában? Jelölje be az összes jó választ!
+Minden metódus kötelezően ad vissza true vagy false értéket.
+A metódus a deklarációjának megfelelően ad vissza vagy nem ad vissza értéket.
+A metódus bizonyos paraméterek értékét is módosíthatja.
+Ha a void módosító szerepel a deklarációban, akkor a metódus nem ad vissza értéket. 
+bd 
+Jelölje be az összes igaz állítást!
+A metódus szignatúrájának elemei: a metódus neve, paraméterlistája és visszatérési értéke.
+Ha egy osztály valamely változójának deklarációját a static kulcsszóval kezdjük, akkor a változó a példányokban nem fog megjelenni!
+Egy osztály akárhány publikus metódust tartalmazhat.
+Egy metódus csak akkor hívhatja egy másik, ugyanabban az osztályban lévő metódust, ha annak deklarációja sorrendben előtte áll. 
+bc 
+Jelölje be az összes szintaktikailag helyes metódusfejet!
+public static int main(int x)
+public int valami()
+public void int valami(int x)
+void valami() 
+abd 
+Jelölje be az összes igaz állítást!
+A függvények visszatérési típusa void.
+Az eljárás nem ad vissza értéket.
+Javában a függvény eljárásként is meghívható.
+Javában az eljárás függvényként is meghívható. 
+bc 
+Mit jelentenek a felsorolt módosítók a metódusok azonosítói előtt. Jelölje be az összes jó választ!
+protected – üres metódus
+static – osztálymetódus
+final – végleges metódus, nem lehet felülírni
+abstract – üres metódus 
+bcd 
+Jelölje be az összes igaz állítást!
+Egy eljárásnak bármennyi paramétere lehet.
+A Javában csak érték szerinti paraméterátadás van.
+Egy eljárásnak csak egy paramétere lehet.
+A fordító figyelmen kívül hagyja, ha egy függvénynek van return nélküli ága. 
+ab 
+Jelölje be az összes igaz állítást!
+Ha egy függvénynek van return nélküli ága, akkor a függvény visszatérési értéke void.
+Az abstract és a final módosítók nem adhatók meg egyszerre.
+Fordítási hibát eredményez, ha egy függvénynek van return nélküli ága.
+A függvények túlterhelhetők, az eljárások nem. 
+bc 
+Melyik metódust hajtja végre a fordító a max metódus hívásakor? Jelölje be az egyetlen jó választ! int x = 6; double y = 1001.497; System.out.println(max(x,y)); 
+static int max(int a, int b)
+static long max(long a, long b)
+static double max(double a, double b)
+static double max(double a, double b, double c) 
+c 
+Jelölje be az összes igaz állítást!
+Egy lokális változó az őt deklaráló blokk végéig él.
+A nem inicializált lokális változónak a fordító automatikusan nulla értéket ad.
+Egy érvényben lévő változóval azonos nevű másik változó csak akkor deklarálható, ha az érvényben lévő változó értéke nulla.
+A konstans változó módosítója final. 
+ad 
+Jelölje be az összes igaz állítást!
+Minden változó a deklarálás pillanatában születik meg.
+Javában az inicializálatlan változóra való hivatkozás fordítási hibát eredményez.
+A main metódus változói is lokális változók.
+A lokális változók és a formális paraméterek azonosítói egy metóduson belül megegyezhetnek (azonosak lehetnek). 
+abc 
+Jelölje be az összes igaz állítást!
+A referencia típusú változó egy primitív típusú változó memóriabeli címe.
+A null referencia egy olyan objektumra mutat, amely a memória nullás címén helyezkedik el.
+Egy osztály példányait a new operátorral hozhatjuk létre.
+A konstruktor azonosítója független az osztály azonosítójától. 
+c 
+Jelölje be az összes igaz állítást!
+Egy referencia típusú változó azonosítójával közvetve hivatkozunk egy objektum memóriahelyére.
+A toString() metódust minden osztályban kötelezően meg kell írni.
+Az equals() metódust minden osztályban kötelezően meg kell írni.
+A System.out.println() metódus paramétere lehet egy objektum. 
+ad 
+Mi igaz egy String osztályú objektumra? Jelölje be az összes jó választ!
+Egy unikód karaktereket tartalmazó szöveg tárolására alkalmas.
+Állapotát egyetlen metódusa sem képes megváltoztatni.
+Minden metódusa megváltoztatja az állapotát.
+Olyan hosszú szöveget képes tárolni, amit a long típus képes ábrázolni. 
+ab 
+Adott az alábbi deklaráció: StringBuffer s = new StringBuffer("Hello!");  Az alábbiak közül mely metódushívások írják ki a „Hello!” szöveget? Jelölje be az összes jó választ!
+System.out.println(s);
+System.out.println(s.toString());
+System.out.println(s.capacity());
+System.out.println(s.data); 
+ab 
+Jelölje be az összes igaz állítást!
+A StringBuffer osztályban a karakterláncok változtathatók, a String osztályban nem.
+A String és StringBuffer osztályok értékadás szempontjából kompatibilisek egymással.
+A toString() metódus csak a StringBuffer és String osztályokban érhető el, más osztályoknak nincs ilyen metódusa.
+Minden osztály közös őse az Object osztály. 
+ad 
+Jelölje be az összes igaz állítást!
+A String és StringBuffer osztályok az Object osztályból származnak, a csomagoló osztályok nem.
+A Javában minden osztály az Object osztályból származik.
+A Math osztályt a csomagoló osztályok közé soroljuk.
+A StringTokenizer osztály segítségével egy karakterláncot tudunk részekre bontani. 
+bd 
+Jelölje be az összes igaz állítást!
+A null referencia típusú konstans.
+Az alapértelmezés szerinti konstruktornak pontosan egy paramétere van.
+A new operátor létrehoz egy új objektumot.
+A null primitív (boolean) típusú konstans. 
+ac 
+Jelölje be az összes igaz állítást!
+Ha a konstruktort priváttá tesszük, letiltjuk az osztály példányosítását.
+A konstruktor előtt sosem szerepelhet private módosító.
+Objektumokat nem lehet értékül adni egymásnak.
+Objektumok egyenlőségét a hasonlító operátorok (==, !=) segítségével állapíthatjuk meg. 
+a 
+Jelölje be az összes igaz állítást!
+Az equals metódus visszatérési értéke int típusú.
+Két nem azonos objektumnak is lehet ugyanaz az állapota.
+Objektumok egyenlőségét az equals metódussal szokás megállapítani.
+A Javában a hivatkozás nélküli objektumok memóriahelyeit a programozónak kell felszabadítani. 
+bc 
+Jelölje be az összes igaz állítást!
+A String objektum szövege unikód karakterek sorozata.
+Egy String objektum állapota bármikor tetszőlegesen megváltoztatható.
+Egy String objektumban tárolt szöveg utolsó előtti karakterének indexe n-1 (ahol n a szöveg hossza).
+Egy String objektumban tárolt szöveg negyedik karakterének indexe 3. 
+ad 
+Jelölje be az összes igaz állítást!
+Egy String objektumot csak new operátorral lehet létrehozni.
+Egy String objektum létrehozható new operátor nélkül is.
+A String osztály csak osztálymetódusokat deklarál.
+A String osztály manipuláló metódusai az eredeti objektum tartalmát változatlanul hagyva egy új String típusú objektumot állítanak össze. 
+bd 
+Jelölje be az összes igaz állítást!
+Egy StringBuffer objektumnak van kapacitása.
+A String osztály a StringBuffer osztály őse.
+A String osztály a StringBuffer osztály leszármazottja.
+Egy StringBuffer objektum által tartalmazott szöveg aktuális hossza futás közben változhat. 
+ad 
+Mely metódusok segítségével bővíthető egy StringBuffer objektum? Jelölje be az összes jó választ!
+String substring(int start, int end)
+StringBuffer append(<Type> value)
+StringBuffer insert(int offset, <type> value)
+StringBuffer reverse() 
+bc 
+Jelölje be az összes igaz állítást!
+Az osztályváltozó nem egy konkrét példányra, hanem az egész osztályra jellemző.
+Az osztályváltozó osztályonként egyszer foglal memóriahelyet.
+Az osztályváltozót minden példány külön tárolja, és ugyanaz az értéke.
+Az osztályváltozót az osztályhoz tartozó összes objektum ismeri. 
+abd 
+Jelölje be az összes igaz állítást!
+Az objektum adatait osztályában deklaráljuk.
+Az osztály egy objektum minta.
+Az osztály deklarálásakor megadhatjuk a létrehozandó objektum adatainak kezdeti értékeit.
+A this egy osztályváltozó. 
+abc 
+A következő deklarációk közül melyek az ugyanabból a csomagból elérhető osztálytagok? Jelölje be az összes jó választ!
+public int suly() {...}
+private static int suly;
+public static int terfogat;
+int terfogat() {...} 
+c 
+Jelölje be az összes igaz állítást!
+A példányinicializáló blokk az objektum megszólításakor minden alkalommal meghívásra kerül.
+Egy metódus blokkjában deklarált változóra hivatkozni lehet a metódus után deklarált más metódusokból.
+A metódus blokkjából hivatkozni lehet az osztály bármely tagjára.
+A this egy osztályváltozó. 
+c 
+Jelölje be az összes igaz állítást!
+Ha egy osztály final, akkor azt nem lehet származtatni.
+Az osztály fejében kötelezően ki kell írni, hogy extends Object.
+Az osztály módosítói lehetnek a következők: public, protected.
+Az absztrakt osztályt nem lehet példányosítani. 
+ad 
+A következők közül melyek lehetnek egy osztály módosítói? Jelölje be az összes jó választ!
+public
+protected
+final
+abstract 
+acd 
+Jelölje be az összes igaz állítást!
+Az objektum adatok és metódusok összessége.
+Az osztály mintául szolgál objektumok létrehozásához.
+Minden osztály őse az Object osztály.
+Az osztályban csak privát adatok szerepelhetnek. 
+abc 
+Az alábbiak közül melyek lehetnek a Valami nevű osztály konstruktorai? Jelölje be az összes jó választ!
+public static void Valami()
+public Valami(int szam)
+public Masik(int szam)
+public int Valami() 
+b 
+Mekkora az egydimenziós tömb maximális elemszáma Javában? Jelölje be az egyetlen jó választ!
+Amekkorát az int típussal indexelni lehet.
+Amekkorát a long típussal indexelni lehet.
+Az elemek száma a tömb elemeinek típusától függ.
+Elméletileg korlátlan, a szabad memória méretétől függ. 
+a 
+Jelölje be az összes szintaktikailag helyes deklarációt!
+double[][] dt = new double [5][8];
+double[][] dt = new double [5][];
+double[][] dt = new double [][8];
+double[][] dt = new double [][]; 
+ab 
+Jelölje be az összes szintaktikailag helyes deklarációt!
+int[] byte[] a = new int[7] byte[7];
+int[7][7] a;
+int[][] a;
+int a[]; 
+cd 
+Melyik programsorban deklarálunk két tömböt? Jelölje be az összes jó választ!
+int[] tomb1, tomb2;
+int tomb1[], tomb2[];
+int tomb1, tomb[2];
+int tomb1, tomb2[]; 
+ab 
+Mit hoz létre az alábbi utasítás? Jelölje be az egyetlen jó választ! szamok = new int[7]; 
+Egy 7 elemű tömböt.
+Egy 8 elemű tömböt, ahol az elemek indexei: 0..7
+Egy mutatót a később létrehozandó tömbre.
+Semmit, mert szintaktikailag hibás. 
+a 
+Jelölje be az összes igaz állítást!
+Primitív elemtípus esetén az aktuális tömb elemtípusa kötelezően meg kell, hogy egyezzen a formális tömb elemtípusával.
+Referencia elemtípus esetén az aktuális tömb elemtípusa kötelezően meg kell, hogy egyezzen a formális tömb elemtípusával.
+Egy String objektum mindig értékül adható egy Object típusú változónak.
+Egy StringBuffer objektum mindig értékül adható egy String típusú változónak. 
+ac 
+Jelölje be az összes igaz állítást!
+Javában a primitív adatokat a compareTo metódus segítségével hasonlítjuk össze.
+Objektumokat kizárólag metódusokkal lehet összehasonlítani.
+A buborékos rendezés csak primitív adatokra alkalmazható, objektumokra nem.
+A beszúrásos rendezés algoritmusa rekurzív. 
+b 
+Jelölje be az összes igaz állítást!
+A buborékos rendezés más néven szomszédos elemek cseréjével történő rendezés.
+Indexes rendezés segítségével egyszerre több szempont szerinti rendezettséget is elő tudunk állítani.
+Direkt rendezésről akkor beszélünk, ha a sorozat elemeinek eredeti sorrendjét nem változtatjuk meg.
+A gyorsrendezés algoritmusa rekurzív. 
+abd 
+Jelölje be az összes igaz állítást!
+Az equals() és compareTo() metódusok túlterhelhetők.
+Az equals() metódus visszatérési értéke int, a compareTo() metódusé boolean.
+A compareTo() metódus alkalmas két objektum közötti rendezési reláció felállítására (kisebb/nagyobb/egyenlő).
+A compareTo() metódus visszatérési értéke int. 
+acd 
+Jelölje be az összes igaz állítást!
+A Collections.sort metódussal bármilyen objektumokat tartalmazó vektor rendezhető.
+A Collections.sort metódussal csak akkor rendezhető egy vektor, ha a vektor elemei implementálták a Comparable interfészt.
+Csak az összehasonlítható objektumok rendezhetők.
+Az objektumokat csak a compareTo() metódussal lehet összehasonlítani. 
+bc 
+Jelölje be az összes igaz állítást!
+Minden objektumnak van compareTo metódusa.
+Minden objektumnak van equals metódusa.
+Az equals metódus minden esetben azt mondja meg, hogy az objektum állapota megegyezik-e a paraméterként kapott objektum állapotával.
+A compareTo metódus azt mondja meg, hogy az objektum rendezettségben kisebb, nagyobb vagy egyenlő-e, mint a paraméterként kapott objektum. 
+bd 
+Jelölje be az összes igaz állítást!
+A vektor méretének bővülése az elemek hozzáadásával nem automatikus.
+A vektor indexOf metódusa az elemek equals metódusát hívja meg.
+A vektor contains metódusa az elemek compareTo metódusát hívja meg.
+A vektor add metódusával bármelyik két elem közé beszúrhatunk új elemet. 
+bd 

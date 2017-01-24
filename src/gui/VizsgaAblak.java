@@ -34,7 +34,7 @@ public class VizsgaAblak extends JDialog implements ActionListener {
   private final JCheckBox cbValasz3 = new JCheckBox("c.) válasz: ");
   private final JCheckBox cbValasz4 = new JCheckBox("d.) válasz: ");
   
-  private final JButton btOK = new JButton("Következő kérdés");
+  private final JButton btOK = new JButton("Válaszok mutatása");
   private final JLabel lbSzamlalo = new JLabel("", SwingConstants.CENTER);
   private final JButton btMegse = new JButton("Megszakít");
 
@@ -141,6 +141,7 @@ public class VizsgaAblak extends JDialog implements ActionListener {
   public void actionPerformed(ActionEvent e) {
     if (e.getSource() == btOK) {
       /*A helyes válaszok megmutatása*/
+      if ("válaszok mutatása".equals(btOK.getText().toLowerCase())) {
       megoldasMegmutatasa(cbValasz1, feladatok.get(aktualisKerdesSzama).
               getMegoldas().toLowerCase(), "a" );
       megoldasMegmutatasa(cbValasz2, feladatok.get(aktualisKerdesSzama).
@@ -149,12 +150,14 @@ public class VizsgaAblak extends JDialog implements ActionListener {
               getMegoldas().toLowerCase(), "c" );
       megoldasMegmutatasa(cbValasz4, feladatok.get(aktualisKerdesSzama).
               getMegoldas().toLowerCase(), "d" );
-      JOptionPane.showMessageDialog(null, "A válaszok megtekintése után kattints"
-              + "az OK gombra!");
+      btOK.setText("Következő kérdés");
+      return;
+      }
       cbValasz1.setForeground(Color.BLACK);
       cbValasz2.setForeground(Color.BLACK);
       cbValasz3.setForeground(Color.BLACK);
       cbValasz4.setForeground(Color.BLACK);
+      btOK.setText("Válaszok mutatása");
       /*Eredmény értékelése, és a következő kérdés kiíratása*/
       StringBuilder sb = new StringBuilder();
       if (cbValasz1.isSelected()) { sb.append("a");}
